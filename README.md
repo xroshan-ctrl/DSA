@@ -1,2 +1,2 @@
 # DSA
-This repository is for DSA.
+This is my personal repository and i work here on DSA.
